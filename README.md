@@ -47,21 +47,3 @@ Minha jornada na programação também passou por aqui, construindo uma base só
 </p>
 
 ---
-
-### 📊 Minhas Estatísticas e Conquistas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[joaopedroBH04]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[joaopedroBH04]&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[joaopedroBH04]&theme=dracula&row=1&column=7" alt="Trophies"/>
-</p>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[joaopedroBH04]/[joaopedroBH04]/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[joaopedroBH04]/[joaopedroBH04]/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/[joaopedroBH04]/[joaopedroBH04]/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>

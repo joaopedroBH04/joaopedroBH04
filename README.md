@@ -8,7 +8,7 @@
 
 ---
 
-### 💡 Sobre Mim
+###  Sobre Mim
 
 Sou um profissional de tecnologia apaixonado por transformar dados brutos em insights de negócio e soluções automatizadas. Minha carreira é uma ponte entre a **Engenharia de Dados** e a **Programação**, com forte experiência no desenvolvimento de processos de ETL, criação de dashboards em Power BI e automação com Python.
 
@@ -16,7 +16,7 @@ Embora meu foco atual seja no ecossistema de dados, possuo uma base sólida em d
 
 ---
 
-### 🚀 Minhas Ferramentas do Dia a Dia
+###  Minhas Ferramentas do Dia a Dia
 
 Estas são as tecnologias que movem meus projetos e análises atualmente.
 
@@ -32,7 +32,7 @@ Estas são as tecnologias que movem meus projetos e análises atualmente.
 
 ---
 
-### 🛠️ Outras Tecnologias que Já Explorei
+###  Outras Tecnologias que Já Explorei
 
 Minha jornada na programação também passou por aqui, construindo uma base sólida.
 

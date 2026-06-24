@@ -17,7 +17,7 @@
 
 <!-- PROFILE METRICS -->
 <img src="https://komarev.com/ghpvc/?username=joaopedroBH04&label=Profile%20views&color=8B5CF6&style=flat-square" alt="profile views"/>
-<a href="https://www.linkedin.com/in/joaopedroBH04/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/in/joaopedro100/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-22C55E?style=flat-square" alt="open to work"/>
 
 </div>
@@ -114,8 +114,8 @@ I love turning ideas into products that run in production, from the frontend all
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedroBH04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=c9d1d9" alt="github stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroBH04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8" alt="top langs"/>
+<img height="180em" src="https://github-readme-stats-nu-amber-13.vercel.app/api?username=joaopedroBH04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=c9d1d9" alt="github stats"/>
+<img height="180em" src="https://github-readme-stats-nu-amber-13.vercel.app/api/top-langs/?username=joaopedroBH04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8&hide=html,jinja,hcl" alt="top langs"/>
 
 </div>
 
@@ -183,7 +183,6 @@ GitHub Action de PR review automatizado usando a API da Anthropic.
 
 `TypeScript` `GitHub Actions` `Claude API`
 
-🔗 [github.com/joaopedroBH04](https://github.com/joaopedroBH04)
 
 </td>
 </tr>
@@ -204,7 +203,7 @@ GitHub Action de PR review automatizado usando a API da Anthropic.
 
 <br/><br/>
 
-<i>"Code is just the beginning — shipping is the goal."</i>
+<i>"Code is just the beginning -> shipping is the goal."</i>
 
 </div>
 

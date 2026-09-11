@@ -201,20 +201,16 @@ GitHub Action that runs automated pull request reviews using the Anthropic API �
 </div>
 -->
 
-<!--
-  🐍 SNAKE DE CONTRIBUIÇÕES — ativar depois do primeiro run do workflow
-  1. Faça o merge deste PR na branch main
-  2. Vá em Actions → "Generate Snake Animation" → Run workflow (ou espere o cron)
-  3. Confirme que a branch "output" foi criada e descomente o bloco abaixo
-
 <div align="center">
+
+<!-- Gerado pelo workflow .github/workflows/snake.yml na branch `output` deste repo -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaopedroBH04/joaopedroBH04/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaopedroBH04/joaopedroBH04/output/github-snake.svg"/>
     <img src="https://raw.githubusercontent.com/joaopedroBH04/joaopedroBH04/output/github-snake.svg" width="100%" alt="contribution snake"/>
   </picture>
+
 </div>
--->
 
 <br/>
 

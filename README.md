@@ -35,7 +35,7 @@
 
 - 🔭 Building the **Smart O&M Portal** at **PV Doctor** (Singapore, remote) — solar asset management
 - 📊 **Data engineer at Abrasel** — AWS ETL pipelines on a Medallion architecture
-- 🚀 Founder of **[agendaí](https://agendaifacil.com.br)** — a multi-tenant scheduling SaaS running live with real customers
+- 🚀 Founder of **[agendaí](https://agendaifacil.com.br)** —> a multi-tenant scheduling SaaS running live with real customers
 - 🌱 Going deep on **LLMs, RAG and agent architecture**
 - 💬 Ask me about **Next.js · TypeScript · FastAPI · AWS · PostgreSQL**
 - 📫 **Open to remote opportunities** — [let's talk on LinkedIn](https://www.linkedin.com/in/joaopedro100/)

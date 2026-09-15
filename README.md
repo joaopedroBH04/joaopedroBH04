@@ -49,7 +49,7 @@ Desenvolvedor **full-stack e engenheiro de dados** de 22 anos, baseado em Belo H
 
 - 🔭 Construindo o **Smart O&M Portal** na **PV Doctor** (Singapura, remoto) — gestão de ativos solares
 - 📊 **Engenheiro de dados na Abrasel** — pipelines ETL na AWS com arquitetura Medallion
-- 🚀 Fundador do **[agendaí](https://agendaifacil.com.br)** — SaaS de agendamento multi-tenant, no ar com clientes reais
+- 🚀 Fundador do **[agendaí](https://agendaifacil.com.br)** —> SaaS de agendamento multi-tenant, no ar com clientes reais
 - 🌱 Me aprofundando em **LLMs, RAG e arquitetura de agentes**
 - 💬 Pergunte sobre **Next.js · TypeScript · FastAPI · AWS · PostgreSQL**
 - 📫 **Aberto a oportunidades remotas** — [vamos conversar no LinkedIn](https://www.linkedin.com/in/joaopedro100/)
